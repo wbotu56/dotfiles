@@ -6,7 +6,7 @@
   ln -s dotfiles/gitconfig .gitconfig
   ```
 
-🚧 **TODO:**
+## 🚧 **TODO:**
 <!-- TODO-IST:START -->
 * [x] Create repository for dotfiles
 * [ ] Push existing dotfiles to this repository
