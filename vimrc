@@ -7,3 +7,4 @@ set shiftwidth=4
 set listchars=tab:▸\ ,eol:¬,space:·
 set cursorcolumn
 set cursorline
+set number
