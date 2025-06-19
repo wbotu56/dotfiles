@@ -1,1 +1,6 @@
 startup_message off
+hardstatus on
+hardstatus alwayslastline
+# Very nice tabbed colored hardstatus line
+# https://gist.github.com/ChrisWills/1337178
+hardstatus string '%{= Kd} %{= Kd}%-w%{= Kr}[%{= KW}%n %t%{= Kr}]%{= Kd}%+w %-= %{KG} %H%{KW}|%{KY}%101`%{KW}|%D %M %d %Y%{= Kc} %C%A%{-}'
